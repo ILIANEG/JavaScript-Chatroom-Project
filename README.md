@@ -1,2 +1,2 @@
 # JavaScript-Chatroom-Project
-In this project i tested out FireBase (noSQL data base solution backed by google)
+In this project i used plain Javasccript and Firebase to create simple chatroom
